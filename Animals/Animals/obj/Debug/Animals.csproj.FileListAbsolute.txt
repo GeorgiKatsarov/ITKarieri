@@ -1,0 +1,13 @@
+c:\users\pc\documents\visual studio 2013\Projects\Animals\Animals\bin\Debug\Animals.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Animals\Animals\bin\Debug\Animals.exe
+c:\users\pc\documents\visual studio 2013\Projects\Animals\Animals\bin\Debug\Animals.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Animals\Animals\obj\Debug\Animals.exe
+c:\users\pc\documents\visual studio 2013\Projects\Animals\Animals\obj\Debug\Animals.pdb
+C:\Users\Georgi\Desktop\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\Georgi\Desktop\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\Georgi\Desktop\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\Georgi\Desktop\Animals\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Animals\Animals\obj\Debug\Animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Georgi\Desktop\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\Georgi\Desktop\Animals\Animals\obj\Debug\Animals.pdb

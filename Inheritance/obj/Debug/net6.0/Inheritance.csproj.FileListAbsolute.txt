@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+C:\Users\Georgi\Desktop\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Georgi\Desktop\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache

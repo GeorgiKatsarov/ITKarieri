@@ -1,0 +1,14 @@
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.exe
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.exe
+c:\users\pc\documents\visual studio 2013\Projects\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.pdb
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.exe.config
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.exe
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\bin\Debug\ColoredFigures.pdb
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.exe
+C:\Users\Georgi\Desktop\ColoredFigures\ColoredFigures\obj\Debug\ColoredFigures.pdb
