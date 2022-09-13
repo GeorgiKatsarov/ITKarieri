@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.exe
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.deps.json
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.runtimeconfig.json
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.dll
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\ref\PrevozniSredstva.dll
+C:\Users\Georgi\Desktop\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.pdb
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.dll
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\ref\PrevozniSredstva.dll
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.pdb
+C:\Users\Georgi\Desktop\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.genruntimeconfig.cache

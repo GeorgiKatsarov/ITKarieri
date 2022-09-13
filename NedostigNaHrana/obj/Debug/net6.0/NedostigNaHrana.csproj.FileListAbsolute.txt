@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\NedostigNaHrana.exe
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\NedostigNaHrana.deps.json
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\NedostigNaHrana.runtimeconfig.json
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\NedostigNaHrana.dll
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\ref\NedostigNaHrana.dll
+C:\Users\Georgi\Desktop\NedostigNaHrana\bin\Debug\net6.0\NedostigNaHrana.pdb
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.dll
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\ref\NedostigNaHrana.dll
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.pdb
+C:\Users\Georgi\Desktop\NedostigNaHrana\obj\Debug\net6.0\NedostigNaHrana.genruntimeconfig.cache

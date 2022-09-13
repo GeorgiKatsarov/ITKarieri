@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\GranichenKontrol.exe
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\GranichenKontrol.deps.json
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\GranichenKontrol.runtimeconfig.json
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\GranichenKontrol.dll
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\ref\GranichenKontrol.dll
+C:\Users\Georgi\Desktop\GranichenKontrol\bin\Debug\net6.0\GranichenKontrol.pdb
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.dll
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\ref\GranichenKontrol.dll
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.pdb
+C:\Users\Georgi\Desktop\GranichenKontrol\obj\Debug\net6.0\GranichenKontrol.genruntimeconfig.cache
