@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\FermaZaJivotni.exe
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\FermaZaJivotni.deps.json
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\FermaZaJivotni.runtimeconfig.json
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\FermaZaJivotni.dll
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\ref\FermaZaJivotni.dll
+C:\Users\Georgi\Desktop\FermaZaJivotni\bin\Debug\net6.0\FermaZaJivotni.pdb
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.dll
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\ref\FermaZaJivotni.dll
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.pdb
+C:\Users\Georgi\Desktop\FermaZaJivotni\obj\Debug\net6.0\FermaZaJivotni.genruntimeconfig.cache

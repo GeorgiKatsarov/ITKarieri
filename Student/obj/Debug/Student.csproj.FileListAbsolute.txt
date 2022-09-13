@@ -1,0 +1,11 @@
+C:\Users\Georgi\Desktop\Student\bin\Debug\Student.exe.config
+C:\Users\Georgi\Desktop\Student\bin\Debug\Student.exe
+C:\Users\Georgi\Desktop\Student\bin\Debug\Student.pdb
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.Students.resources
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.exe
+C:\Users\Georgi\Desktop\Student\obj\Debug\Student.pdb
