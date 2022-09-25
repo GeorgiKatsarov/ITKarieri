@@ -18,43 +18,107 @@ namespace uml
             get { return name; }
             set
             {
-                if (value.Length < 2)
+                try
                 {
-                    throw new ArgumentException("value", "The name must be atleast 2 letters long");
-                };
-                this.name = value;
+                    if (value.Length < 2)
+                    {
+                        Console.WriteLine("The name must be atleast 2 letters long");
+                        throw new Exception();
+                    };
+                    this.name = value;
+                }
+                catch (Exception)
+                {
+                    string name = Console.ReadLine();
+                    while (name.Length<2)
+                    {
+                        Console.WriteLine("The name must be atleast 2 letters long");
+                        name = Console.ReadLine();
+                    }
+                    this.name = name;
+                }
+                
+                
             }
             
         }
         public string City
         { get { return city; }
             set {
-                if (value.Length<2)
+                try
                 {
-                    throw new ArgumentException("value", "The city must be atleast 2 letters long");
+                    if (value.Length < 2)
+                    {
+                       Console.WriteLine("The city must be atleast 2 letters long");
+                        throw new Exception();
+                    }
+                    city = value;
                 }
-                city = value;
+                catch (Exception)
+                {
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("The city must be atleast 2 letters long");
+                        name = Console.ReadLine();
+                    }
+                    city = name;
+                     
+                }
+                
             } 
         }
         public int Age { 
             get { return age; }
             set
             {
-                if (value < 0 )
+                try
                 {
-                    throw new ArgumentOutOfRangeException("value", "Age must be a positive number");
-                }  
-                age = value;
+                    if (value < 0)
+                    {
+                        Console.WriteLine("Age must be a positive number");
+                        throw new Exception();
+                    }
+                    age = value;
+                }
+                catch (Exception)
+                {
+                    int name = int.Parse(Console.ReadLine());
+                    while (name < 0)
+                    {
+                        Console.WriteLine("Age must be a positive number");
+                        name = int.Parse(Console.ReadLine());
+                    }
+                    this.age = name;
+                    
+                }
+                
             } 
         
         
         }
         public string Adress { get { return adress; } set {
-                if (value.Length < 2)
+                try
                 {
-                    throw new ArgumentException("value", "The adress must be atleast 2 letters long");
+                    if (value.Length < 2)
+                    {
+                        Console.WriteLine("The adress must be atleast 2 letters long");
+                        throw new Exception();
+                    }
+                    adress = value; ;
                 }
-                adress = value; ;
+                catch (Exception)
+                {
+
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("The adress must be atleast 2 letters long");
+                        name = Console.ReadLine();
+                    }
+                    this.adress = name; ;
+                }
+                
             } }
 
         public Person( string adress, int age, string city, string name)
@@ -64,5 +128,6 @@ namespace uml
             this.City = city;
             this.Adress = adress;
         }
+        
     }
 }

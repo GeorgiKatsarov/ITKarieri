@@ -16,10 +16,26 @@ namespace uml
             get { return department; }
             set
             {
-                if (value.Length < 2)
+                try
                 {
-                    throw new ArgumentException("value", "Departament must be  atleast 2 digits long");
+                    if (value.Length < 2)
+                    {
+                        Console.WriteLine("Departament must be  atleast 2 digits long");
+                        throw new Exception();
+
+                    }
                     department = value;
+                }
+                catch (Exception)
+                {
+
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("Departament must be  atleast 2 digits long");
+                        name = Console.ReadLine();
+                    }
+                    this.department = name;
                 }
                 
             }
@@ -30,11 +46,27 @@ namespace uml
             get { return salary; }
             set
             {
-                if (value < 0)
+                try
                 {
-                    throw new ArgumentException("value", "Salary must be a positive number");
+                    if (value < 0)
+                    {
+                        Console.WriteLine("Salary must be a positive number");
+                        throw new Exception();
+                    }
+                    salary = value;
                 }
-                salary = value;
+                catch (Exception)
+                {
+
+                    double name = double.Parse(Console.ReadLine());
+                    while (name < 0)
+                    {
+                        Console.WriteLine("Age must be a positive number");
+                        name = double.Parse(Console.ReadLine());
+                    }
+                    this.salary = name;
+                }
+                
 
             }
         }

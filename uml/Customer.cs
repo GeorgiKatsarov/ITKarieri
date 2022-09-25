@@ -16,14 +16,29 @@ namespace uml
             get { return custemerID; }
             set
             {
-                if (value.Length == 4)
+                try
                 {
-                    custemerID = value;
+                    if (value.Length == 4)
+                    {
+                        custemerID = value;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Customer ID must be 4 digits long");
+                        throw new Exception();
+                    }
                 }
-                else
+                catch (Exception)
                 {
-                    throw new ArgumentException("value", "Customer ID must be 4 digits long");
+                    string name = Console.ReadLine();
+                    while (name.Length == 4)
+                    {
+                        Console.WriteLine("Customer ID must be 4 digits long");
+                        name = Console.ReadLine();
+                    }
+                    this.custemerID = name; ;
                 }
+                
             } }
 
         public string ShippingAddress
@@ -31,11 +46,27 @@ namespace uml
             get { return shippingAddress; }
             set
             {
-                if (value.Length < 2)
+                try
                 {
-                   throw new ArgumentException("value", "Shipping address must be atleast 2 letteres long");
+                    if (value.Length < 2)
+                    {
+                        Console.WriteLine("Shipping address must be atleast 2 letteres long");
+                        throw new Exception();
+                    }
+                    shippingAddress = value;
                 }
-                shippingAddress = value;
+                catch (Exception)
+                {
+
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("Shipping address must be atleast 2 letteres long");
+                        name = Console.ReadLine();
+                    }
+                    this.shippingAddress = name; ;
+                }
+                
                
             }
         }

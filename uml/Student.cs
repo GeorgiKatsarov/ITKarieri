@@ -16,14 +16,30 @@ namespace uml
             get { return rolleNumber; }
             set
             {
-                if (value.Length == 10)
+                try
                 {
-                    rolleNumber = value;
-                }
+                     if (value.Length == 10)
+                     {
+                        rolleNumber = value;
+                     }
                 else
                 {
-                    throw new ArgumentException("value", "Roll Number must be 10 digits long");
+                    Console.WriteLine("Roll Number must be 10 digits long");
+                    throw new Exception();
                 }
+                }
+                catch (Exception)
+                {
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("Roll Number must be 10 digits long");
+                        name = Console.ReadLine();
+                    }
+                    this.rolleNumber = name; ;
+                    
+                }
+               
             }
         }
 
@@ -32,11 +48,27 @@ namespace uml
             get { return studyingClass; }
             set
             {
-                if (value.Length < 2)
+                try
                 {
-                    throw new ArgumentException("value", "Studying class must be atleast 2 letteres long");
+                    if (value.Length < 2)
+                    {
+                        Console.WriteLine("Studying class must be atleast 2 letteres long");
+                        throw new Exception();
+                    }
+                    studyingClass = value;
                 }
-                studyingClass = value;
+                catch (Exception)
+                {
+
+                    string name = Console.ReadLine();
+                    while (name.Length < 2)
+                    {
+                        Console.WriteLine("Studying class must be atleast 2 letteres long");
+                        name = Console.ReadLine();
+                    }
+                    this.studyingClass = name; ;
+                }
+                
 
             }
         }
