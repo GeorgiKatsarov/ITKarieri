@@ -31,7 +31,7 @@ namespace uml
                 catch (Exception)
                 {
                     string name = Console.ReadLine();
-                    while (name.Length < 2)
+                    while (name.Length == 10)
                     {
                         Console.WriteLine("Roll Number must be 10 digits long");
                         name = Console.ReadLine();
