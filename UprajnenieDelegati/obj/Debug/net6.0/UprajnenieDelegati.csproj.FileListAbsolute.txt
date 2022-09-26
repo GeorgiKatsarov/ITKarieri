@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\UprajnenieDelegati.exe
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\UprajnenieDelegati.deps.json
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\UprajnenieDelegati.runtimeconfig.json
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\UprajnenieDelegati.dll
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\ref\UprajnenieDelegati.dll
+C:\Users\Georgi\Desktop\UprajnenieDelegati\bin\Debug\net6.0\UprajnenieDelegati.pdb
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.dll
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\ref\UprajnenieDelegati.dll
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.pdb
+C:\Users\Georgi\Desktop\UprajnenieDelegati\obj\Debug\net6.0\UprajnenieDelegati.genruntimeconfig.cache
