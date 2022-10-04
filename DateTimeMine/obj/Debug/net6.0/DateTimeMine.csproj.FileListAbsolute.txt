@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\DateTimeMine.exe
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\DateTimeMine.deps.json
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\DateTimeMine.runtimeconfig.json
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\DateTimeMine.dll
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\ref\DateTimeMine.dll
+C:\Users\Georgi\Desktop\DateTimeMine\bin\Debug\net6.0\DateTimeMine.pdb
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.dll
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\ref\DateTimeMine.dll
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.pdb
+C:\Users\Georgi\Desktop\DateTimeMine\obj\Debug\net6.0\DateTimeMine.genruntimeconfig.cache
