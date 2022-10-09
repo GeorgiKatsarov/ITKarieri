@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ProbenIzpit.exe
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ProbenIzpit.deps.json
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ProbenIzpit.runtimeconfig.json
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ProbenIzpit.dll
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ref\ProbenIzpit.dll
+C:\Users\Georgi\Desktop\ProbenIzpit\bin\Debug\net6.0\ProbenIzpit.pdb
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.dll
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ref\ProbenIzpit.dll
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.pdb
+C:\Users\Georgi\Desktop\ProbenIzpit\obj\Debug\net6.0\ProbenIzpit.genruntimeconfig.cache
