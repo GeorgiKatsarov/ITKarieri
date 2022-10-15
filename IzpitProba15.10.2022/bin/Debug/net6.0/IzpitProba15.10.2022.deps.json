@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IzpitProba15.10.2022/1.0.0": {
+        "runtime": {
+          "IzpitProba15.10.2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IzpitProba15.10.2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
