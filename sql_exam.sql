@@ -2,28 +2,28 @@
 CREATE DATABASE exam ;
 CREATE TABLE characteristics(
 characteristic_id INT PRIMARY KEY AUTO_INCREMENT,
-    title NVARCHAR(255) NOT NULL
+    title VARCHAR(255) NOT NULL
 );
 
 CREATE TABLE users(
 user_id INT PRIMARY KEY AUTO_INCREMENT,
-    username NVARCHAR(50) NOT NULL,
-    email NVARCHAR(255) NOT NULL,
-    password NVARCHAR(255) NOT NULL,
-    first_name NVARCHAR(255) NOT NULL,
-    last_name NVARCHAR(255) NOT NULL,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    first_name VARCHAR(255) NOT NULL,
+    last_name VARCHAR(255) NOT NULL,
     birthdate DATE NOT NULL,
     gender ENUM('m', 'f') NOT NULL,
     bio TEXT,
     latitude DOUBLE NOT NULL,
     longitude DOUBLE NOT NULL,
-    profile_picture NVARCHAR(50)
+    profile_picture VARCHAR(50)
 );
 
 CREATE TABLE characteristics_users(
 characteristic_id INT,
     user_id INT,
-    value NVARCHAR(255) NOT NULL,
+    value VARCHAR(255) NOT NULL,
     PRIMARY KEY (characteristic_id, user_id),
     FOREIGN KEY (characteristic_id) REFERENCES characteristics(characteristic_id),
     FOREIGN KEY (user_id) REFERENCES users(user_id)
