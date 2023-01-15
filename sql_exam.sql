@@ -1,4 +1,5 @@
 ### create the database
+CREATE DATABASE exam ;
 CREATE TABLE characteristics(
 characteristic_id INT PRIMARY KEY AUTO_INCREMENT,
     title NVARCHAR(255) NOT NULL
