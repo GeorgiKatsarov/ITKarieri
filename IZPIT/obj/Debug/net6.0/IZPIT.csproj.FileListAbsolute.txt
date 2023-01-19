@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\IZPIT.exe
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\IZPIT.deps.json
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\IZPIT.runtimeconfig.json
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\IZPIT.dll
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\ref\IZPIT.dll
+C:\Users\Georgi\Desktop\IZPIT\bin\Debug\net6.0\IZPIT.pdb
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.dll
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\ref\IZPIT.dll
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.pdb
+C:\Users\Georgi\Desktop\IZPIT\obj\Debug\net6.0\IZPIT.genruntimeconfig.cache
